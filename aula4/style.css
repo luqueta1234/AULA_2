@@ -1,0 +1,24 @@
+body {
+    background-color: #99C5B5
+}
+
+h4{
+    border: #1E1E24 double 5px;
+}
+
+li{
+    color: red;
+}
+
+.deuses {
+    background-color: #EFF1F3; color: #1E1E24;
+    font-size: 30px;
+}
+
+#cabecalho {
+    background-color: #F7EDF0;
+}
+
+div p {
+    color: greenyellow;
+}
