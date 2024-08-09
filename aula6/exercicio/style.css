@@ -1,0 +1,40 @@
+body{
+    background-color: #382f32;
+}
+
+header{
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.imagem{
+    margin: 5px;
+    padding: 5px;
+    background-color: red;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.imagem:hover{
+    background-color: white;
+    cursor: pointer;
+    opacity: 50%;
+    transform: scale(1.1);
+}
+
+.imagem2{
+    margin: 5px;
+    padding: 5px;
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    font-weight: bold;
+}

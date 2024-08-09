@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(37,37,194,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+}
+
+hr{
+    margin: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 10px;
+}
+
+.post{
+    border: solid 1px white;
+    margin: 15px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+}

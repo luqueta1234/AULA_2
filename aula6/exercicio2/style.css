@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+
+.post{
+    flex-direction: row;
+}
