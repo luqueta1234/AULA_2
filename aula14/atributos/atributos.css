@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: rgba(196, 8, 8, 0.795);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem{
+    width: 400px;
+}
+
+.legal {
+    background-color: tomato;
+    margin-top: 180px;
+    width: 400px;
+    border: 10px solid tomato;
+    height: 245px;
+}
